@@ -1,0 +1,1 @@
+/home/ben/anaconda3/bin:/home/ben/miniconda3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/java/jdk1.8.0_201/bin/
